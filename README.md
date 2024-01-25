@@ -1,2 +1,2 @@
-# educational_worlds
+# INNER CAMP TASK
 Соревновательный мир для внутренних отборов 2024
